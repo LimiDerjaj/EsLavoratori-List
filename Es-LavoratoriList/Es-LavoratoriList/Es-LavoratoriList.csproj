@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Helpers\DbHelper.cs" />
     <Compile Include="Lavoratore.cs" />
     <Compile Include="MyList.cs" />
     <Compile Include="Program.cs" />
